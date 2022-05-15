@@ -15,3 +15,6 @@
 //  git diff // what changes in the files  in (modified stage) 
 //  git help  (command name) // open manual for that command
 //  i am in modified stage
+//  git branch (list all the branches in git repo)
+//  git branch (branch_name)   // create the new branch but dd not switch the branch
+// git checkout (branch_name)  // move from current_branch to (branch_name)
