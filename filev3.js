@@ -12,11 +12,3 @@
 //  git status  (current status of git repository)
 //  git add (file_path) or (file_name) or . (current directory)   // add the changes to staging area
 //  git rm --cached (file_path) or (file_name)  // move to the modified stage
-//  git diff // what changes in the files  in (modified stage) 
-//  git help  (command name) // open manual for that command
-//  i am in modified stage
-//  after commiting the changes switching branch does not move changes from one branch to another branch
-//  git pull 
-//  git clone 
-//  git log
-//  git revert <commit hash>  // move back to previous  <commit hash>  
