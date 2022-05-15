@@ -15,3 +15,7 @@
 //  git diff // what changes in the files  in (modified stage) 
 //  git help  (command name) // open manual for that command
 //  i am in modified stage
+//  after commiting the changes switching branch does not move changes from one branch to another branch
+//  git pull 
+//  git clone 
+//  git log
