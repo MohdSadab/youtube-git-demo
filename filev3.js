@@ -19,3 +19,4 @@
 //  git pull 
 //  git clone 
 //  git log
+//  git revert <commit hash>  // move back to previous  <commit hash>  
